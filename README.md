@@ -10,8 +10,10 @@
 </a><br>
 
 - 🎓 Undergraduate at **SLIIT**
+- 🌱 Currently Learning **MERN**
 - 📫 You can reach me via **sjanukshan9825@gmail.com**
 <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/janukshan sivakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janukshan sivakumar" height="30" width="40" /></a>
@@ -24,8 +26,8 @@
 
 <h3 align="left">Statistics:</h3>
 
-![Janukshan's github stats](https://github-readme-stats.vercel.app/api?username=JanukshanS&show_icons=true&theme=tokyonight)  ![Janukshan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanukshanS&theme=tokyonight) 
+| ![Janukshan's github stats](https://github-readme-stats.vercel.app/api?username=JanukshanS&show_icons=true&theme=tokyonight) | ![Janukshan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanukshanS&theme=tokyonight) |
+|---|--|
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanukshanS&theme=tokyonight) 
 
