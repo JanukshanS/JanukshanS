@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janukshans&label=Profile%20views&color=0e75b6&style=flat" alt="janukshans" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janukshans" alt="janukshans" /></a> </p>
+<p align="left"> As a second-year software engineering student, I've immersed myself in coding and problem-solving, taking on various projects to hone my skills. With a passion for innovation, I'm eager to contribute to the software engineering field. My journey has included exploring diverse programming languages, working on team-based projects, and continuously improving my critical thinking and communication abilities. I look forward to deepening my knowledge and developing impactful solutions to real-world problems.</p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
