@@ -6,15 +6,14 @@
 </p>
 
 <p align="left">
-  As a second-year software engineering student, I've immersed myself in coding and problem-solving, taking on various projects to hone my skills. With a passion for innovation, I'm eager to contribute to the software engineering field. My journey has included exploring diverse programming languages, working on team-based projects, and continuously improving my critical thinking and communication abilities. I look forward to deepening my knowledge and developing impactful solutions to real-world problems.
+  As a third-year software engineering student, I've immersed myself in coding and problem-solving, taking on various projects to hone my skills. With a passion for innovation, I'm eager to contribute to the software engineering field. My journey has included exploring diverse programming languages, working on team-based projects, and continuously improving my critical thinking and communication abilities. I look forward to deepening my knowledge and developing impactful solutions to real-world problems.
 </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a><br>
 
-- 🎓 Undergraduate at **SLIIT**  
-- 🌱 Currently Learning **MERN**  
+- 🎓 Undergraduate at **SLIIT**    
 - 📫 You can reach me via **sjanukshan9825@gmail.com**  
 
 <br>
